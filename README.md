@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arseniomuanda&show_icons=true&bg_color=00000000) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arseniomuanda&hide_progress=true)
-
-https://github.com/arseniomuanda/github-profile-trophy
+******************************
+[![trophy](https://github-profile-trophy.vercel.app/?username=arseniomuanda&theme=onedark)](https://github.com/arseniomuanda/github-profile-trophy)
